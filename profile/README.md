@@ -74,33 +74,6 @@ Across our systems, we optimize for:
 
 ---
 
-## This GitHub Organization
-
-You’ll find repositories here that cover:
-
-- Core platforms and services
-- Integrations with external systems (e.g. payroll, benefits, CRM)
-- Internal tooling and automation
-- Shared libraries and domain models
-
-Detailed product behavior, APIs, data models, and workflows live in the individual repository READMEs.
-
----
-
-## Who This Is For
-
-This organization is primarily for:
-
-- Parento engineers
-- Trusted partners and vendors
-- Auditors and reviewers
-- Future contributors who want to understand how modern leave infrastructure is built
-
-If you’re here to understand *what* Parento does: start here.  
-If you’re here to understand *how* it works: dive into the repos.
-
----
-
 ## About Parento
 
 Parento was founded to support working parents through financial, emotional, and logistical challenges—before, during, and after leave. We believe paid parental leave should be equitable, scalable, and operationally sane.
